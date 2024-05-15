@@ -1,5 +1,6 @@
 # flowAMOEBA
 flowAMOEBA: a bottom-up flow clustering algorithm 
+Ran Tao, Jean-Claude Thill. (2019). flowAMOEBA: Identifying Regions of Anomalous Spatial Interactions. _Geographical Analysis_ 51(1): 111–130.
 
 Before running the code, there are several steps you need to prepare. First, import the origin and destination shapefile.
 First, import the origin and destination shapefile.
