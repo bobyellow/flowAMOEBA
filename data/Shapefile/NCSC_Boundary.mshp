@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <HISTORY>
+    <MODULE>Polygon Dissolve</MODULE>
+    <OPTION type="table_field" id="FIELD_1" name="1. Attribute">-1</OPTION>
+    <OPTION type="table_field" id="FIELD_2" name="2. Attribute">-1</OPTION>
+    <OPTION type="table_field" id="FIELD_3" name="3. Attribute">-1</OPTION>
+    <OPTION type="boolean" id="BND_KEEP" name="Keep Boundaries">FALSE</OPTION>
+    <OPTION type="table_fields" id="STAT_FIELDS" name="Statistics"/>
+    <OPTION type="boolean" id="STAT_SUM" name="Sum">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_AVG" name="Mean">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_MIN" name="Minimum">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_MAX" name="Maximum">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_RNG" name="Range">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_DEV" name="Deviation">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_VAR" name="Variance">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_LST" name="Listing">FALSE</OPTION>
+    <OPTION type="boolean" id="STAT_NUM" name="Count">FALSE</OPTION>
+    <OPTION type="choice" id="STAT_NAMING" name="Field Naming">0</OPTION>
+    <DATA type="shapes" id="POLYGONS" name="Polygons">
+      <FILE>C:/Ran/AMOEBA/clusterpy-master/Migration/NCSC.shp</FILE>C:/Ran/AMOEBA/clusterpy-master/Migration/NCSC.shp</DATA>
+  </HISTORY>
+  <SOURCE>
+    <FILE>C:/Ran/AMOEBA/clusterpy-master/Migration/NCSC_Boundary.shp</FILE>
+    <DATABASE></DATABASE>
+    <PROJECTION>
+      <OGC_WKT>PROJCS["USA_Contiguous_Albers_Equal_Area_Conic",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Albers"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["central_meridian",-96],PARAMETER["Standard_Parallel_1",29.5],PARAMETER["Standard_Parallel_2",45.5],PARAMETER["latitude_of_origin",37.5],UNIT["Meter",1]]</OGC_WKT>
+      <PROJ4>+proj=aea +a=6378137.000000 +b=6356752.314140 +x_0=0 +y_0=0 +lon_0=-96 +lat_1=29.5 +lat_2=45.5 +lat_0=37.5 +no_defs</PROJ4>
+      <EPSG>-1</EPSG>
+    </PROJECTION>
+  </SOURCE>
+  <DESCRIPTION></DESCRIPTION>
+</SAGA_METADATA>
