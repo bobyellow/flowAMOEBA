@@ -1,7 +1,7 @@
 # flowAMOEBA
 **flowAMOEBA (Tao & Thill 2019)**, a bottom-up method that detects irregular-shaped spatial clusters on both ends of spatial flows. It was later improved by adopting methods like **head-tail breaks** (Tao et al. 2020), which guide the implementation of this repository. The method has been applied to a variety of studies, including detecting human mobility flows during extreme weather events (Chen et al. 2020). The bivariate extension, namely BiFlowAMOEBA, was developed by Liu et al. (2022). 
 
-Try it in Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bobyellow/flowAMOEBA/blob/main/flowAMOEBA_main.ipynb)
 
 The code replicates the synthetic data experiment in (Tao & Thill 2019). The setup and result are shown below. All the irregular-shaped flow clusters (both hot and cold ones) can be accurately detected. In particular, Group 4 is omitted using Rook's case continuity rule, but it can be picked up by switching to Queen's case. 
 ![image](https://github.com/user-attachments/assets/0b5d1395-91e8-4ec1-b6f4-53c9ec889ed6)
