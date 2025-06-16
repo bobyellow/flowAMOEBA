@@ -16,9 +16,7 @@ A **detailed explanation** on how flowAMOEBA works (taken from Tao et al. 2020):
 ![Fig3](https://github.com/user-attachments/assets/77825ce4-d80b-4a86-b6bc-2bdb716b1bd9)
 
 
-
-
-**To cite:**
+**References**
 
 Tao, R., & Thill, J. C. (2019). FlowAMOEBA: identifying regions of anomalous spatial interactions. Geographical Analysis, 51(1), 111-130.
 
